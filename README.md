@@ -18,7 +18,7 @@ Inspire Team
 ## **Team Members**  
 - **Mohamed Salem**  
 - **Mohamed Abdel Naeim**  
-- **Ahmed El-Sherbini**  
+- **Ahmed ElSherbini**  
 
 ---
 
