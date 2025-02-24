@@ -35,7 +35,6 @@ Inspire GEM Team
 ---
 
 ## **Notes**  
-- Ensure all Google Drive links are set to **"Anyone with the link can view"** for seamless access.  
 - For inquiries or collaboration, contact the Inspire GEM Team.  
 
 ---
