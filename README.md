@@ -8,7 +8,7 @@
 Grand Egyptian Museum (GEM) Mobile Application  
 
 **Team Name:**  
-Inspire GEM Team  
+Inspire Team  
 
 **Group Code:**  
 `DKH2_DRT2_G1`  
