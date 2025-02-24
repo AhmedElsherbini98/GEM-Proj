@@ -35,8 +35,8 @@ Inspire Team
 ---
 
 ## **Notes**  
-- For inquiries or collaboration, contact the Inspire GEM Team.  
+- For inquiries or collaboration, contact the Inspire Team.  
 
 ---
 
-**© 2025 Inspire GEM Team | DEPI Final Project**  
+**© 2025 Inspire Team | DEPI Final Project | GEM**  
