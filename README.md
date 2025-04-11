@@ -1,21 +1,48 @@
 # 🏛️ Grand Egyptian Museum (GEM) App
 
-**DEPI - Final Project | Inspire GEM Team**
+## 🌟 Project Context
+
+### Initiative
+**Digital Egypt Pioneers Initiative (DEPI)** - Round 2
+
+### Training Track
+**Digital Arts**
+
+### Specialization
+**UI & UX Web Designer**
+
+### Group Code
+**DKH2_DRT2_G1**
+
+### Training Provider
+**YAT Learning Solutions**
+
+### Instructor
+**Eng. Mohamed Kamar**
+
+---
 
 ![GitHub](https://img.shields.io/badge/Version-1.0-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Team](https://img.shields.io/badge/Team-Inspire-orange)
-![Group](https://img.shields.io/badge/Group-DKH2__DRT2__G1-blueviolet)
+![Track](https://img.shields.io/badge/Track-Digital_Arts-green)
+![Specialization](https://img.shields.io/badge/Specialization-UI_UX_Design-red)
+
+## 👥 Team Information
+
+### Project Name
+**GEM App - Inspire Team**
+
+### Team Members
+| Name | Role |
+|------|------|
+| **Mohamed Salem Fouda** | UI/UX Designer |
+| **Mohamed Abdel Naeim** | UI/UX Designer |
+| **Ahmed Fawzy ElSherbini** | UI/UX Designer |
 
 ## 📋 Project Overview
 
 A comprehensive mobile application designed for the Grand Egyptian Museum (GEM) to enhance visitor experience, provide virtual tours, and make Egypt's rich cultural heritage more accessible to global audiences.
-
-## 👥 Team Members
-
-- **Mohamed Salem**
-- **Mohamed Abdel Naeim**
-- **Ahmed ElSherbini**
 
 ## 🔍 Project Deliverables
 
@@ -43,14 +70,20 @@ Complete design system including wireframes, screens, and interactive prototype:
 ## 🌟 Features
 - Virtual museum tours
 - Artifact information and history
-- Interactive navigation
+- Interactive 3D exhibits
+- Museum map and navigation
 - Ticket booking and management
-- Event calendar
+- Event calendar and notifications
 - Multilingual support
+- Augmented reality experiences
+- Social sharing capabilities
+- Personalized visit recommendations
 
 ## 💻 Technology Stack
-- UI/UX Design: Figma
-- Documentation: Google Docs, PDF
+- **Design Tools**: Figma, PS, Canva
+- **Prototyping**: Figma Interactive Prototype
+- **Documentation**: Google Docs, PDF, Google Drive
+- **Design System**: Custom GEM design system
 
 ## 📞 Contact Information
 For inquiries or collaboration opportunities, please contact the Inspire Team.
