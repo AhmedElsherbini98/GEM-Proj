@@ -40,21 +40,6 @@ Complete design system including wireframes, screens, and interactive prototype:
 - **Project Resources**: Images, typography, and other design assets  
   [Access Project Assets](https://drive.google.com/drive/folders/1uooDAA2I_6lGhCnLAkm0haBz3Rg6VloQ?usp=sharing)
 
-## 🔄 Installation and Setup
-```bash
-# Clone repository
-git clone https://github.com/username/gem-app.git
-
-# Navigate to project directory
-cd gem-app
-
-# Install dependencies
-npm install
-
-# Run the application
-npm start
-```
-
 ## 🌟 Features
 - Virtual museum tours
 - Artifact information and history
