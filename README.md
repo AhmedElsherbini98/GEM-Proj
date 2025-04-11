@@ -1,93 +1,138 @@
 # 🏛️ Grand Egyptian Museum (GEM) App
 
-## 🌟 Project Context
+<div align="center">
+  <img src="https://img.shields.io/badge/DEPI-Round%202-gold?style=for-the-badge" alt="DEPI Round 2"/>
+  <img src="https://img.shields.io/badge/Track-Digital%20Arts-purple?style=for-the-badge" alt="Digital Arts"/>
+  <img src="https://img.shields.io/badge/Specialization-UI%20UX%20Design-blue?style=for-the-badge" alt="UI UX Design"/>
+</div>
 
-### Initiative
-**Digital Egypt Pioneers Initiative (DEPI)** - Round 2
+<div align="center">
+  <img src="https://img.shields.io/badge/Group-DKH2__DRT2__G1-orange" alt="Group Code"/>
+  <img src="https://img.shields.io/badge/Provider-YAT%20Learning%20Solutions-green" alt="YAT"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status"/>
+  <img src="https://img.shields.io/badge/Team-Inspire-red" alt="Team Inspire"/>
+</div>
 
-### Training Track
-**Digital Arts**
+---
 
-### Specialization
-**UI & UX Web Designer**
+## 📋 Project Information
 
-### Group Code
-**DKH2_DRT2_G1**
-
-### Training Provider
-**YAT Learning Solutions**
-
-### Instructor
+### 👨‍🏫 Instructor
 **Eng. Mohamed Kamar**
 
+### 👥 Team Members
+<table>
+  <tr>
+    <td align="center"><b>Mohamed Salem Fouda</b><br/>UI/UX Designer</td>
+    <td align="center"><b>Mohamed Abdel Naeim</b><br/>UI/UX Designer</td>
+    <td align="center"><b>Ahmed Fawzy ElSherbini</b><br/>UI/UX Designer</td>
+  </tr>
+</table>
+
 ---
 
-![GitHub](https://img.shields.io/badge/Version-1.0-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Team](https://img.shields.io/badge/Team-Inspire-orange)
-![Track](https://img.shields.io/badge/Track-Digital_Arts-green)
-![Specialization](https://img.shields.io/badge/Specialization-UI_UX_Design-red)
+## 🎬 Project Introduction
+<div align="center">
+  <b>Watch our project introduction video:</b><br/>
+  <a href="https://drive.google.com/file/d/1Mzv5tL-BzwSygNtiI7G0EM63o8pV5tAu/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Project%20Intro-red?style=for-the-badge&logo=youtube" alt="Project Intro Video"/>
+  </a>
+</div>
 
-## 👥 Team Information
+## 📱 Project Overview
 
-### Project Name
-**GEM App - Inspire Team**
+The GEM App revolutionizes how visitors experience the Grand Egyptian Museum by creating an immersive digital companion that enhances the physical museum visit while providing virtual access to Egypt's cultural treasures for global audiences. Our solution addresses navigation challenges, information accessibility, and engagement through a user-centered design approach.
 
-### Team Members
-| Name | Role |
-|------|------|
-| **Mohamed Salem Fouda** | UI/UX Designer |
-| **Mohamed Abdel Naeim** | UI/UX Designer |
-| **Ahmed Fawzy ElSherbini** | UI/UX Designer |
+---
 
-## 📋 Project Overview
+## 🎨 Project Deliverables
 
-A comprehensive mobile application designed for the Grand Egyptian Museum (GEM) to enhance visitor experience, provide virtual tours, and make Egypt's rich cultural heritage more accessible to global audiences.
+### ✨ Design Files
 
-## 🔍 Project Deliverables
+<table>
+  <tr>
+    <td>
+      <b>🔍 Figma Project</b><br/>
+      Complete design including wireframes, screens, design system & interactive prototype
+      <p><a href="https://www.figma.com/design/lsxjGF6CguktfjUmQEyoeL/GEM?node-id=96-226&t=9ZVbPQq66HCgiNbv-1">View Design on Figma</a></p>
+    </td>
+    <td>
+      <b>📁 .fig Source File</b><br/>
+      Download the complete Figma source file
+      <p><a href="https://drive.google.com/file/d/1k8kkZk9KKsnDcSQGw5f6crnquZGo8gQx/view?usp=sharing">Download .fig File</a></p>
+    </td>
+  </tr>
+</table>
 
-### 📱 Figma Design Project
-Complete design system including wireframes, screens, and interactive prototype:
-[View GEM App Design on Figma](https://www.figma.com/design/lsxjGF6CguktfjUmQEyoeL/GEM?node-id=96-226&t=9ZVbPQq66HCgiNbv-1)
+### 📑 Documentation
 
-### 📄 Documentation
+<table>
+  <tr>
+    <td>
+      <b>📊 Case Study</b><br/>
+      Comprehensive case study including research, personas, problem definition, solution & designs
+      <p><a href="https://drive.google.com/file/d/1_jUq5rNLke7-utsZyML8uPeE-htxJpXk/view?usp=sharing">View Complete Case Study (PDF)</a></p>
+    </td>
+    <td>
+      <b>💼 Business Model Canvas</b><br/>
+      Business strategy, revenue model & value proposition
+      <p><a href="https://drive.google.com/file/d/1e2YVyIhRm9LGP2ldU-73OWIlekbaTtjd/view?usp=sharing">View Business Canvas (PDF)</a></p>
+    </td>
+  </tr>
+</table>
 
-#### Case Studies
-- **Case Study 1**: Team, App, Problem Statement, Solution, Personas & User Research  
-  [View Case Study 1 (PDF)](https://drive.google.com/file/d/1GSzajfQMdmaKn_Ym0mKxMPdCIVr2Ff_S/view?usp=sharing)
+### 🗃️ Resources
 
-- **Case Study 2**: Art Style & Screen Designs  
-  [View Case Study 2 (PDF)](https://drive.google.com/file/d/1MPWuY0mHJybBiAVMHlOCApimCBEnh_eT/view?usp=sharing)
+<table>
+  <tr>
+    <td>
+      <b>🖼️ Project Assets</b><br/>
+      Images, typography, icons & other design assets
+      <p><a href="https://drive.google.com/drive/folders/1uooDAA2I_6lGhCnLAkm0haBz3Rg6VloQ?usp=sharing">Access All Assets</a></p>
+    </td>
+    <td>
+      <b>📦 Complete Project Archive</b><br/>
+      All project files in one location
+      <p><a href="https://drive.google.com/drive/folders/1uooDAA2I_6lGhCnLAkm0haBz3Rg6VloQ?usp=sharing">Access Complete Archive</a></p>
+    </td>
+  </tr>
+</table>
 
-#### Business Model
-- **Business Model Canvas**: Comprehensive business strategy and revenue model  
-  [View Business Model Canvas (PDF)](https://drive.google.com/file/d/1e2YVyIhRm9LGP2ldU-73OWIlekbaTtjd/view?usp=sharing)
-
-### 🎨 Assets
-- **Project Resources**: Images, typography, and other design assets  
-  [Access Project Assets](https://drive.google.com/drive/folders/1uooDAA2I_6lGhCnLAkm0haBz3Rg6VloQ?usp=sharing)
-
-## 🌟 Features
-- Virtual museum tours
-- Artifact information and history
-- Interactive 3D exhibits
-- Museum map and navigation
-- Ticket booking and management
-- Event calendar and notifications
-- Multilingual support
-- Augmented reality experiences
-- Social sharing capabilities
-- Personalized visit recommendations
+---
 
 ## 💻 Technology Stack
-- **Design Tools**: Figma, PS, Canva
-- **Prototyping**: Figma Interactive Prototype
-- **Documentation**: Google Docs, PDF, Google Drive
-- **Design System**: Custom GEM design system
 
-## 📞 Contact Information
-For inquiries or collaboration opportunities, please contact the Inspire Team.
+<table>
+  <tr>
+    <td>🎨 <b>Design</b></td>
+    <td>Figma, PS, Canva </td>
+  </tr>
+  <tr>
+    <td>🔄 <b>Prototyping</b></td>
+    <td>Figma Interactive Prototype</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Design System</b></td>
+    <td>Custom GEM Design System (Colors, Typography, Components)</td>
+  </tr>
+  <tr>
+    <td>📝 <b>Documentation</b></td>
+    <td>PDF, Google Docs</td>
+  </tr>
+</table>
 
 ---
 
-**© 2025 Inspire Team | DEPI Final Project | Grand Egyptian Museum App**
+## 📞 Contact Information
+
+For inquiries or collaboration opportunities, please contact the Inspire Team members.
+
+---
+
+<div align="center">
+  <b>© 2025 Inspire Team | DEPI Final Project | Grand Egyptian Museum App</b>
+</div>
+
+<div align="center">
+  <i>All project materials can be accessed at our <a href="https://drive.google.com/drive/folders/1uooDAA2I_6lGhCnLAkm0haBz3Rg6VloQ?usp=sharing">Google Drive Repository</a></i>
+</div>
